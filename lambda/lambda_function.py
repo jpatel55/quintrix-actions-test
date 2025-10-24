@@ -5,4 +5,4 @@ def lambda_handler(event, context):
     print(json.dumps(event))
 
     # This just passes the S3 event details right through
-    return event # comment added
+    return event # comment
