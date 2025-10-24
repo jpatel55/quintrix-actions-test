@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  LAMBDA_FUNCTION_NAME: my-lambda-function-github-actions
+  LAMBDA_FUNCTION_NAME: my-pre-glue-lambda
 
 jobs:
   deploy:
